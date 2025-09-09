@@ -1,5 +1,6 @@
 # Smart-Trash-Bin-Arduino
-Smart Trash Bin using Arduino Uno. Current functionality: Ultrasonic sensor + servo motor automatically opens/closes lid when user approaches. 
+Smart Trash Bin using Arduino Uno. 
+As of 5/1/2024 - Current functionality: Ultrasonic sensor + servo motor automatically opens/closes lid when user approaches. 
 
 ## Components
 
