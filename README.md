@@ -14,7 +14,7 @@ Arduino Uno + IDE
 
 Sensor measures distance using ultrasonic pulses.
 
-If object detected within ~18 cm → servo rotates lid open (30°).
+If object detected within ~5 cm → servo rotates lid open (30°).
 
 Otherwise → lid closes (90°).
 
